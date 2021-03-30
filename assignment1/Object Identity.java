@@ -1,5 +1,5 @@
 public class ObjectEquality{
-
+  @Test
   public static void main (String[] args){
 
     Integer x1 = new Integer( 5 ) ;

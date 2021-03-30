@@ -1,4 +1,4 @@
-public class ObjectEquality
+public class ObjectEquality{
 
   public static void main (String[] args){
 

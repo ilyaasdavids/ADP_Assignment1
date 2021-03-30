@@ -1,7 +1,7 @@
 public class ObjectEquality{
-
+@Test
   public static void main (String[] args){
-    @Test
+   
     Integer x1 = new Integer( 5 ) ;
     Integer x2 = x1 ;
     Integer x3 = new Integer( 5 ) ;

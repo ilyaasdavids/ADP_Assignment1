@@ -1,5 +1,5 @@
   
-public class ObjectIdentity{
+public class TimeoutTest{
   @Test
   @Timeout(6)
   public static void main (String[] args){

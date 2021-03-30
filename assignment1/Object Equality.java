@@ -12,7 +12,7 @@ public class ObjectEquality{
       System.out.println(x1 eq x2);// true
     }
 
-    if(myCar1.equals(x3){
+    if(x1.equals(x3){
       System.out.println(x1 eq x3);// false 
      }
   }

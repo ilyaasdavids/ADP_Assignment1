@@ -1,5 +1,4 @@
-*.dmb
-*.rsc
-*.int
-*.lk
-*.zip
+#Files and folders to be ignored by git
+
+
+#NetBeans specifics

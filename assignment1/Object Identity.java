@@ -1,4 +1,4 @@
-public class ObjectEquality{
+public class ObjectIdentity{
   @Test
   public static void main (String[] args){
 

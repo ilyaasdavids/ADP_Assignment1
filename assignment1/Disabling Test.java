@@ -7,7 +7,7 @@ public class DisablingTest{
     Integer x2 = x1 ;
     Integer x3 = new Integer( 5 ) ;
     
-    assertEquals(x1,x1);
+    assertEquals(x1,x2);
   }
 }
   

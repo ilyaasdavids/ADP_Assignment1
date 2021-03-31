@@ -1,6 +1,6 @@
 public class ObjectIdentity{
   @Test
-  public static void main (String[] args){
+  public void ObjId{
 
     Integer x1 = new Integer( 5 ) ;
     Integer x2 = x1 ;

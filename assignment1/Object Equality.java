@@ -1,6 +1,6 @@
 public class ObjectEquality{
 @Test
-  public static void main (String[] args){
+  public void ObjectEquality {
    
     Integer x1 = new Integer( 5 ) ;
     Integer x2 = x1 ;
